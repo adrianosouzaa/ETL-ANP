@@ -1,0 +1,133 @@
+[2021-11-18 23:29:17,568] {scheduler_job.py:182} INFO - Started process (PID=22) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:17,570] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:29:17,571] {logging_mixin.py:104} INFO - [2021-11-18 23:29:17,571] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:18,032] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:18,037] {logging_mixin.py:104} INFO - [2021-11-18 23:29:18,037] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:29:18,048] {logging_mixin.py:104} INFO - [2021-11-18 23:29:18,048] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-17 23:29:18.047923+00:00
+[2021-11-18 23:29:18,063] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.498 seconds
+[2021-11-18 23:29:19,643] {scheduler_job.py:182} INFO - Started process (PID=31) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:19,644] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:29:19,646] {logging_mixin.py:104} INFO - [2021-11-18 23:29:19,646] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:20,114] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:20,121] {logging_mixin.py:104} INFO - [2021-11-18 23:29:20,120] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:29:20,131] {logging_mixin.py:104} INFO - [2021-11-18 23:29:20,131] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-17 23:29:20.130789+00:00
+[2021-11-18 23:29:20,190] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.550 seconds
+[2021-11-18 23:29:21,793] {scheduler_job.py:182} INFO - Started process (PID=44) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:21,795] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:29:21,795] {logging_mixin.py:104} INFO - [2021-11-18 23:29:21,795] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:22,264] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:22,269] {logging_mixin.py:104} INFO - [2021-11-18 23:29:22,269] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:29:22,277] {logging_mixin.py:104} INFO - [2021-11-18 23:29:22,277] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-17 23:29:22.276891+00:00
+[2021-11-18 23:29:22,299] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.509 seconds
+[2021-11-18 23:29:58,150] {scheduler_job.py:182} INFO - Started process (PID=162) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:58,151] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:29:58,152] {logging_mixin.py:104} INFO - [2021-11-18 23:29:58,152] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:58,867] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:29:58,886] {logging_mixin.py:104} INFO - [2021-11-18 23:29:58,886] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:29:58,900] {logging_mixin.py:104} INFO - [2021-11-18 23:29:58,900] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:29:58,942] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.796 seconds
+[2021-11-18 23:30:29,543] {scheduler_job.py:182} INFO - Started process (PID=172) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:30:29,544] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:30:29,545] {logging_mixin.py:104} INFO - [2021-11-18 23:30:29,544] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:30:30,138] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:30:30,148] {logging_mixin.py:104} INFO - [2021-11-18 23:30:30,147] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:30:30,160] {logging_mixin.py:104} INFO - [2021-11-18 23:30:30,159] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:30:30,175] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.635 seconds
+[2021-11-18 23:31:01,156] {scheduler_job.py:182} INFO - Started process (PID=182) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:31:01,158] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:31:01,159] {logging_mixin.py:104} INFO - [2021-11-18 23:31:01,158] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:31:01,579] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:31:01,587] {logging_mixin.py:104} INFO - [2021-11-18 23:31:01,587] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:31:01,595] {logging_mixin.py:104} INFO - [2021-11-18 23:31:01,595] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:31:01,611] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.460 seconds
+[2021-11-18 23:31:31,713] {scheduler_job.py:182} INFO - Started process (PID=193) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:31:31,714] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:31:31,715] {logging_mixin.py:104} INFO - [2021-11-18 23:31:31,715] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:31:32,163] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:31:32,171] {logging_mixin.py:104} INFO - [2021-11-18 23:31:32,171] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:31:32,178] {logging_mixin.py:104} INFO - [2021-11-18 23:31:32,178] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:31:32,202] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.491 seconds
+[2021-11-18 23:32:03,282] {scheduler_job.py:182} INFO - Started process (PID=204) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:32:03,283] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:32:03,284] {logging_mixin.py:104} INFO - [2021-11-18 23:32:03,284] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:32:03,773] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:32:03,788] {logging_mixin.py:104} INFO - [2021-11-18 23:32:03,788] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:32:03,797] {logging_mixin.py:104} INFO - [2021-11-18 23:32:03,797] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:32:03,815] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.536 seconds
+[2021-11-18 23:52:14,755] {scheduler_job.py:182} INFO - Started process (PID=21) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:14,765] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:52:14,767] {logging_mixin.py:104} INFO - [2021-11-18 23:52:14,767] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:15,251] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:15,259] {logging_mixin.py:104} INFO - [2021-11-18 23:52:15,259] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:52:15,267] {logging_mixin.py:104} INFO - [2021-11-18 23:52:15,267] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:52:15,296] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.543 seconds
+[2021-11-18 23:52:18,361] {scheduler_job.py:182} INFO - Started process (PID=36) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:18,364] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:52:18,364] {logging_mixin.py:104} INFO - [2021-11-18 23:52:18,364] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:18,885] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:18,894] {logging_mixin.py:104} INFO - [2021-11-18 23:52:18,894] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:52:18,903] {logging_mixin.py:104} INFO - [2021-11-18 23:52:18,903] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:52:18,926] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.568 seconds
+[2021-11-18 23:52:18,970] {scheduler_job.py:182} INFO - Started process (PID=43) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:18,971] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:52:18,972] {logging_mixin.py:104} INFO - [2021-11-18 23:52:18,972] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:19,451] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:19,461] {logging_mixin.py:104} INFO - [2021-11-18 23:52:19,461] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:52:19,473] {logging_mixin.py:104} INFO - [2021-11-18 23:52:19,473] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:52:19,514] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.547 seconds
+[2021-11-18 23:52:50,320] {scheduler_job.py:182} INFO - Started process (PID=72) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:50,322] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:52:50,323] {logging_mixin.py:104} INFO - [2021-11-18 23:52:50,323] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:50,732] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:52:50,742] {logging_mixin.py:104} INFO - [2021-11-18 23:52:50,741] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:52:50,748] {logging_mixin.py:104} INFO - [2021-11-18 23:52:50,748] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:52:50,772] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.455 seconds
+[2021-11-18 23:53:20,906] {scheduler_job.py:182} INFO - Started process (PID=82) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:53:20,907] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:53:20,908] {logging_mixin.py:104} INFO - [2021-11-18 23:53:20,907] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:53:21,338] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:53:21,346] {logging_mixin.py:104} INFO - [2021-11-18 23:53:21,346] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:53:21,360] {logging_mixin.py:104} INFO - [2021-11-18 23:53:21,360] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:53:21,379] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.476 seconds
+[2021-11-18 23:53:53,269] {scheduler_job.py:182} INFO - Started process (PID=165) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:53:53,270] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:53:53,271] {logging_mixin.py:104} INFO - [2021-11-18 23:53:53,271] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:53:53,802] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:53:53,818] {logging_mixin.py:104} INFO - [2021-11-18 23:53:53,818] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:53:53,829] {logging_mixin.py:104} INFO - [2021-11-18 23:53:53,828] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:53:53,852] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.587 seconds
+[2021-11-18 23:54:24,519] {scheduler_job.py:182} INFO - Started process (PID=187) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:54:24,529] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:54:24,530] {logging_mixin.py:104} INFO - [2021-11-18 23:54:24,530] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:54:25,055] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:54:25,068] {logging_mixin.py:104} INFO - [2021-11-18 23:54:25,067] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:54:25,078] {logging_mixin.py:104} INFO - [2021-11-18 23:54:25,078] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:54:25,096] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.581 seconds
+[2021-11-18 23:54:56,218] {scheduler_job.py:182} INFO - Started process (PID=197) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:54:56,220] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:54:56,221] {logging_mixin.py:104} INFO - [2021-11-18 23:54:56,221] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:54:56,675] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:54:56,684] {logging_mixin.py:104} INFO - [2021-11-18 23:54:56,683] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:54:56,693] {logging_mixin.py:104} INFO - [2021-11-18 23:54:56,693] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:54:56,714] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.502 seconds
+[2021-11-18 23:55:26,887] {scheduler_job.py:182} INFO - Started process (PID=210) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:55:26,890] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:55:26,891] {logging_mixin.py:104} INFO - [2021-11-18 23:55:26,891] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:55:27,360] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:55:27,369] {logging_mixin.py:104} INFO - [2021-11-18 23:55:27,369] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:55:27,377] {logging_mixin.py:104} INFO - [2021-11-18 23:55:27,377] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:55:27,398] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.517 seconds
+[2021-11-18 23:55:58,459] {scheduler_job.py:182} INFO - Started process (PID=221) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:55:58,461] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:55:58,462] {logging_mixin.py:104} INFO - [2021-11-18 23:55:58,462] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:55:58,987] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:55:58,999] {logging_mixin.py:104} INFO - [2021-11-18 23:55:58,999] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:55:59,007] {logging_mixin.py:104} INFO - [2021-11-18 23:55:59,007] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:55:59,020] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.567 seconds
+[2021-11-18 23:56:29,120] {scheduler_job.py:182} INFO - Started process (PID=233) to work on /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:56:29,123] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/etl-raizen.py for tasks to queue
+[2021-11-18 23:56:29,124] {logging_mixin.py:104} INFO - [2021-11-18 23:56:29,124] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:56:29,580] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ETL-ANP']) retrieved from /opt/airflow/dags/etl-raizen.py
+[2021-11-18 23:56:29,591] {logging_mixin.py:104} INFO - [2021-11-18 23:56:29,591] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-11-18 23:56:29,600] {logging_mixin.py:104} INFO - [2021-11-18 23:56:29,600] {dag.py:2280} INFO - Setting next_dagrun for ETL-ANP to 2021-11-18 23:29:22.276891+00:00
+[2021-11-18 23:56:29,629] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/etl-raizen.py took 0.513 seconds

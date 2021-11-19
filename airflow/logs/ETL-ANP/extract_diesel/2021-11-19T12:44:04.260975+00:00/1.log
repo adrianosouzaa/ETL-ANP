@@ -1,0 +1,47 @@
+[2021-11-19 12:44:20,921] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: ETL-ANP.extract_diesel 2021-11-19T12:44:04.260975+00:00 [queued]>
+[2021-11-19 12:44:20,925] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: ETL-ANP.extract_diesel 2021-11-19T12:44:04.260975+00:00 [queued]>
+[2021-11-19 12:44:20,925] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 12:44:20,925] {taskinstance.py:1069} INFO - Starting attempt 1 of 1
+[2021-11-19 12:44:20,925] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 12:44:20,940] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): extract_diesel> on 2021-11-19T12:44:04.260975+00:00
+[2021-11-19 12:44:20,943] {standard_task_runner.py:52} INFO - Started process 510 to run task
+[2021-11-19 12:44:20,946] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'ETL-ANP', 'extract_diesel', '2021-11-19T12:44:04.260975+00:00', '--job-id', '36', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/etl-raizen.py', '--cfg-path', '/tmp/tmphyaypyp0', '--error-file', '/tmp/tmp345cfogp']
+[2021-11-19 12:44:20,947] {standard_task_runner.py:77} INFO - Job 36: Subtask extract_diesel
+[2021-11-19 12:44:20,981] {logging_mixin.py:104} INFO - Running <TaskInstance: ETL-ANP.extract_diesel 2021-11-19T12:44:04.260975+00:00 [running]> on host bd289edd73de
+[2021-11-19 12:44:21,013] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=ETL-ANP
+AIRFLOW_CTX_TASK_ID=extract_diesel
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-19T12:44:04.260975+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-19T12:44:04.260975+00:00
+[2021-11-19 12:44:21,663] {taskinstance.py:1482} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1138, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/usr/local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/usr/local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/usr/local/lib/python3.8/site-packages/airflow/operators/python.py", line 117, in execute
+    return_value = self.execute_callable()
+  File "/usr/local/lib/python3.8/site-packages/airflow/operators/python.py", line 128, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/etl-raizen.py", line 50, in transform
+    df.to_parquet('./staging/' + tableName + '.parquet')
+  File "/usr/local/lib/python3.8/site-packages/pandas/util/_decorators.py", line 199, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/pandas/core/frame.py", line 2455, in to_parquet
+    return to_parquet(
+  File "/usr/local/lib/python3.8/site-packages/pandas/io/parquet.py", line 386, in to_parquet
+    impl = get_engine(engine)
+  File "/usr/local/lib/python3.8/site-packages/pandas/io/parquet.py", line 36, in get_engine
+    raise ImportError(
+ImportError: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+[2021-11-19 12:44:21,666] {taskinstance.py:1525} INFO - Marking task as FAILED. dag_id=ETL-ANP, task_id=extract_diesel, execution_date=20211119T124404, start_date=20211119T124420, end_date=20211119T124421
+[2021-11-19 12:44:21,725] {local_task_job.py:146} INFO - Task exited with return code 1

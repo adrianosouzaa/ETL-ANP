@@ -1,0 +1,41 @@
+[2021-11-19 13:33:43,749] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: ETL-ANP.extract_derivated_fuels 2021-11-19T13:33:29.788322+00:00 [queued]>
+[2021-11-19 13:33:43,758] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: ETL-ANP.extract_derivated_fuels 2021-11-19T13:33:29.788322+00:00 [queued]>
+[2021-11-19 13:33:43,758] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 13:33:43,758] {taskinstance.py:1069} INFO - Starting attempt 1 of 1
+[2021-11-19 13:33:43,758] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 13:33:43,784] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): extract_derivated_fuels> on 2021-11-19T13:33:29.788322+00:00
+[2021-11-19 13:33:43,787] {standard_task_runner.py:52} INFO - Started process 135 to run task
+[2021-11-19 13:33:43,792] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'ETL-ANP', 'extract_derivated_fuels', '2021-11-19T13:33:29.788322+00:00', '--job-id', '50', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/etl-raizen.py', '--cfg-path', '/tmp/tmpy1c4cpno', '--error-file', '/tmp/tmpdhztscg0']
+[2021-11-19 13:33:43,793] {standard_task_runner.py:77} INFO - Job 50: Subtask extract_derivated_fuels
+[2021-11-19 13:33:43,832] {logging_mixin.py:104} INFO - Running <TaskInstance: ETL-ANP.extract_derivated_fuels 2021-11-19T13:33:29.788322+00:00 [running]> on host b7092867dc44
+[2021-11-19 13:33:43,865] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=ETL-ANP
+AIRFLOW_CTX_TASK_ID=extract_derivated_fuels
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-19T13:33:29.788322+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-19T13:33:29.788322+00:00
+[2021-11-19 13:33:44,885] {taskinstance.py:1482} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1138, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/usr/local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/usr/local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/usr/local/lib/python3.8/site-packages/airflow/operators/python.py", line 117, in execute
+    return_value = self.execute_callable()
+  File "/usr/local/lib/python3.8/site-packages/airflow/operators/python.py", line 128, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/etl-raizen.py", line 53, in transform
+    df.to_excel('./staging/' + tableName + '.xlsx', sheet_name=sheetName, index=None)
+  File "/usr/local/lib/python3.8/site-packages/pandas/core/generic.py", line 2189, in to_excel
+    formatter.write(
+  File "/usr/local/lib/python3.8/site-packages/pandas/io/formats/excel.py", line 815, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+  File "/usr/local/lib/python3.8/site-packages/pandas/io/excel/_openpyxl.py", line 30, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+[2021-11-19 13:33:44,891] {taskinstance.py:1525} INFO - Marking task as FAILED. dag_id=ETL-ANP, task_id=extract_derivated_fuels, execution_date=20211119T133329, start_date=20211119T133343, end_date=20211119T133344
+[2021-11-19 13:33:44,961] {local_task_job.py:146} INFO - Task exited with return code 1

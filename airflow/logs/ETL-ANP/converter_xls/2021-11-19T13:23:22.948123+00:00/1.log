@@ -1,0 +1,23 @@
+[2021-11-19 13:23:31,097] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: ETL-ANP.converter_xls 2021-11-19T13:23:22.948123+00:00 [queued]>
+[2021-11-19 13:23:31,105] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: ETL-ANP.converter_xls 2021-11-19T13:23:22.948123+00:00 [queued]>
+[2021-11-19 13:23:31,106] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 13:23:31,106] {taskinstance.py:1069} INFO - Starting attempt 1 of 1
+[2021-11-19 13:23:31,106] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 13:23:31,154] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): converter_xls> on 2021-11-19T13:23:22.948123+00:00
+[2021-11-19 13:23:31,171] {standard_task_runner.py:52} INFO - Started process 88 to run task
+[2021-11-19 13:23:31,169] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'ETL-ANP', 'converter_xls', '2021-11-19T13:23:22.948123+00:00', '--job-id', '44', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/etl-raizen.py', '--cfg-path', '/tmp/tmp7dx8hf53', '--error-file', '/tmp/tmp_6ww7c16']
+[2021-11-19 13:23:31,176] {standard_task_runner.py:77} INFO - Job 44: Subtask converter_xls
+[2021-11-19 13:23:31,331] {logging_mixin.py:104} INFO - Running <TaskInstance: ETL-ANP.converter_xls 2021-11-19T13:23:22.948123+00:00 [running]> on host b7092867dc44
+[2021-11-19 13:23:31,510] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=ETL-ANP
+AIRFLOW_CTX_TASK_ID=converter_xls
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-19T13:23:22.948123+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-19T13:23:22.948123+00:00
+[2021-11-19 13:23:31,535] {logging_mixin.py:104} INFO - ['libreoffice', '--convert-to', 'ods', './raw_data/vendas-combustiveis-m3.xls']
+[2021-11-19 13:23:36,928] {python.py:118} INFO - Done. Returned value was: None
+[2021-11-19 13:23:36,933] {taskinstance.py:1185} INFO - Marking task as SUCCESS. dag_id=ETL-ANP, task_id=converter_xls, execution_date=20211119T132322, start_date=20211119T132331, end_date=20211119T132336
+[2021-11-19 13:23:36,974] {taskinstance.py:1246} INFO - 2 downstream tasks scheduled from follow-on schedule check
+[2021-11-19 13:23:37,007] {local_task_job.py:146} INFO - Task exited with return code 0

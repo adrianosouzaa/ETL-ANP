@@ -1,0 +1,1732 @@
+[2021-11-18 23:29:17,475] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-18 23:29:17,475] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-18 23:29:17,475] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-18 23:29:17,476] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:29:17,477] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:29:17,530] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:29:17,530] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:29:12.530565+00:00
+[2021-11-18 23:29:18,117] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.57s           2021-11-18T23:29:18
+================================================================================
+[2021-11-18 23:29:28,567] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:29:28,568] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:29:28,578] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:29:28,578] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:29:23.578182+00:00
+[2021-11-18 23:29:40,440] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:29:40,440] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:29:40,457] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:29:40,457] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:29:35.457843+00:00
+[2021-11-18 23:29:58,090] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:29:58,090] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:29:58,129] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:29:58,129] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:29:53.129231+00:00
+[2021-11-18 23:29:58,966] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.83s           2021-11-18T23:29:58
+================================================================================
+[2021-11-18 23:30:08,113] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:30:08,114] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:30:09,197] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:30:09,198] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:30:04.198818+00:00
+[2021-11-18 23:30:18,262] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:30:18,263] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:30:19,346] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:30:19,346] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:30:14.346828+00:00
+[2021-11-18 23:30:28,439] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:30:28,439] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:30:29,530] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:30:29,530] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:30:24.530416+00:00
+[2021-11-18 23:30:30,309] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.77s           2021-11-18T23:30:30
+================================================================================
+[2021-11-18 23:30:38,581] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:30:38,583] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:30:39,694] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:30:39,695] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:30:34.695133+00:00
+[2021-11-18 23:30:48,802] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:30:48,803] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:30:49,872] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:30:49,872] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:30:44.872860+00:00
+[2021-11-18 23:30:58,947] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:30:58,947] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:31:00,064] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:31:00,064] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:30:55.064350+00:00
+[2021-11-18 23:31:01,658] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.51s           2021-11-18T23:31:01
+================================================================================
+[2021-11-18 23:31:09,163] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:31:09,165] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:31:10,262] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:31:10,262] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:31:05.262877+00:00
+[2021-11-18 23:31:19,351] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:31:19,351] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:31:20,458] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:31:20,458] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:31:15.458776+00:00
+[2021-11-18 23:31:29,540] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:31:29,541] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:31:30,640] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:31:30,640] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:31:25.640863+00:00
+[2021-11-18 23:31:32,229] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.52s           2021-11-18T23:31:32
+================================================================================
+[2021-11-18 23:31:39,734] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:31:39,736] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:31:40,823] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:31:40,823] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:31:35.823494+00:00
+[2021-11-18 23:31:49,892] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:31:49,893] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:31:50,966] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:31:50,966] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:31:45.966251+00:00
+[2021-11-18 23:32:00,037] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:32:00,038] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:32:01,139] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:32:01,139] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:31:56.139265+00:00
+[2021-11-18 23:32:03,887] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.61s           2021-11-18T23:32:03
+================================================================================
+[2021-11-18 23:32:10,201] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:32:10,203] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:32:11,292] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:32:11,293] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:32:06.293046+00:00
+[2021-11-18 23:32:20,383] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:32:20,384] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:32:21,466] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:32:21,466] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:32:16.466478+00:00
+[2021-11-18 23:52:14,684] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-18 23:52:14,684] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-18 23:52:14,684] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-18 23:52:14,684] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:52:14,685] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:52:14,738] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:52:14,738] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:52:09.738799+00:00
+[2021-11-18 23:52:15,393] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.64s           2021-11-18T23:52:15
+================================================================================
+[2021-11-18 23:52:24,919] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:52:24,921] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:52:24,931] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:52:24,931] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:52:19.931313+00:00
+[2021-11-18 23:52:35,028] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:52:35,029] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:52:35,035] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:52:35,036] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:52:30.036145+00:00
+[2021-11-18 23:52:45,815] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:52:45,816] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:52:45,835] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:52:45,835] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:52:40.835885+00:00
+[2021-11-18 23:52:45,842] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.58s           2021-11-18T23:52:19
+================================================================================
+[2021-11-18 23:52:56,182] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:52:56,187] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:52:56,207] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:52:56,207] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:52:51.207824+00:00
+[2021-11-18 23:53:06,360] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:53:06,361] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:53:06,368] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:53:06,368] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:53:01.368848+00:00
+[2021-11-18 23:53:15,934] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.54s           2021-11-18T23:52:50
+================================================================================
+[2021-11-18 23:53:16,584] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:53:16,585] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:53:16,596] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:53:16,596] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:53:11.596509+00:00
+[2021-11-18 23:53:26,767] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:53:26,773] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:53:26,790] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:53:26,790] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:53:21.790777+00:00
+[2021-11-18 23:53:40,275] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:53:40,275] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:53:40,285] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:53:40,285] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:53:35.285527+00:00
+[2021-11-18 23:53:46,129] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.53s           2021-11-18T23:53:21
+================================================================================
+[2021-11-18 23:53:53,212] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:53:53,214] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:53:53,227] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:53:53,227] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:53:48.227782+00:00
+[2021-11-18 23:54:13,279] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:54:13,281] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:54:13,294] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:54:13,295] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:54:08.295036+00:00
+[2021-11-18 23:54:16,524] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.71s           2021-11-18T23:53:53
+================================================================================
+[2021-11-18 23:54:23,399] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:54:23,399] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:54:23,405] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:54:23,405] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:54:18.405956+00:00
+[2021-11-18 23:54:33,597] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:54:33,598] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:54:33,607] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:54:33,607] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:54:28.607899+00:00
+[2021-11-18 23:54:43,821] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:54:43,823] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:54:43,844] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:54:43,845] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:54:38.845250+00:00
+[2021-11-18 23:54:47,328] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.63s           2021-11-18T23:54:25
+================================================================================
+[2021-11-18 23:54:54,033] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:54:54,034] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:54:54,042] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:54:54,042] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:54:49.042289+00:00
+[2021-11-18 23:55:04,210] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:55:04,210] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:55:04,224] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:55:04,224] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:54:59.224649+00:00
+[2021-11-18 23:55:14,512] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:55:14,513] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:55:14,524] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:55:14,524] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:55:09.524931+00:00
+[2021-11-18 23:55:17,756] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.61s           2021-11-18T23:54:56
+================================================================================
+[2021-11-18 23:55:24,697] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:55:24,698] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:55:24,705] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:55:24,705] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:55:19.705610+00:00
+[2021-11-18 23:55:34,877] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:55:34,879] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:55:34,895] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:55:34,896] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:55:29.896681+00:00
+[2021-11-18 23:55:45,060] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:55:45,061] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:55:45,069] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:55:45,070] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:55:40.070157+00:00
+[2021-11-18 23:55:48,292] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.61s           2021-11-18T23:55:27
+================================================================================
+[2021-11-18 23:55:55,241] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:55:55,242] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:55:55,252] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:55:55,253] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:55:50.253053+00:00
+[2021-11-18 23:56:05,419] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:56:05,420] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:56:05,427] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:56:05,428] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:56:00.428437+00:00
+[2021-11-18 23:56:15,665] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:56:15,666] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:56:15,672] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:56:15,673] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:56:10.673133+00:00
+[2021-11-18 23:56:18,884] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.63s           2021-11-18T23:55:59
+================================================================================
+[2021-11-18 23:56:25,902] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:56:25,903] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:56:25,912] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:56:25,912] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:56:20.912486+00:00
+[2021-11-18 23:56:36,067] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:56:36,068] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:56:36,077] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:56:36,077] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:56:31.077594+00:00
+[2021-11-18 23:56:46,240] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-18 23:56:46,241] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-18 23:56:46,255] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-18 23:56:46,255] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-18 23:56:41.255748+00:00
+[2021-11-18 23:56:49,523] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.62s           2021-11-18T23:56:29
+================================================================================
+[2021-11-19 12:26:38,219] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-19 12:26:38,222] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-19 12:26:38,222] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-19 12:26:38,222] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:26:38,225] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:26:38,434] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:26:38,435] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:26:33.435000+00:00
+[2021-11-19 12:26:39,470] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  1.01s           2021-11-19T12:26:39
+================================================================================
+[2021-11-19 12:26:49,848] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:26:49,850] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:26:49,894] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:26:49,897] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:26:44.897536+00:00
+[2021-11-19 12:27:00,355] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:27:00,356] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:27:00,398] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:27:00,398] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:26:55.398441+00:00
+[2021-11-19 12:27:09,737] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  1.59s           2021-11-19T12:26:51
+================================================================================
+[2021-11-19 12:27:10,962] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:27:10,963] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:27:10,977] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:27:10,977] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:27:05.977620+00:00
+[2021-11-19 12:27:21,808] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:27:21,809] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:27:21,834] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:27:21,834] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:27:16.834671+00:00
+[2021-11-19 12:27:32,011] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:27:32,013] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:27:32,033] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:27:32,033] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:27:27.033739+00:00
+[2021-11-19 12:27:40,108] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  1.56s           2021-11-19T12:27:23
+================================================================================
+[2021-11-19 12:27:42,293] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:27:42,294] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:27:42,312] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:27:42,312] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:27:37.312160+00:00
+[2021-11-19 12:27:52,542] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:27:52,543] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:27:52,561] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:27:52,561] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:27:47.561679+00:00
+[2021-11-19 12:28:02,722] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:28:02,724] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:28:02,753] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:28:02,753] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:27:57.753831+00:00
+[2021-11-19 12:28:10,621] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.82s           2021-11-19T12:27:54
+================================================================================
+[2021-11-19 12:28:13,025] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:28:13,029] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:28:13,061] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:28:13,061] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:28:08.061839+00:00
+[2021-11-19 12:28:23,169] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:28:23,172] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:28:23,201] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:28:23,202] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:28:18.202236+00:00
+[2021-11-19 12:28:33,504] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:28:33,508] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:28:33,535] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:28:33,535] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:28:28.535773+00:00
+[2021-11-19 12:28:41,561] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.83s           2021-11-19T12:28:25
+================================================================================
+[2021-11-19 12:28:43,812] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:28:43,813] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:28:43,837] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:28:43,838] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:28:38.838475+00:00
+[2021-11-19 12:28:54,223] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:28:54,228] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:28:54,248] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:28:54,248] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:28:49.248748+00:00
+[2021-11-19 12:29:04,382] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:29:04,385] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:29:04,417] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:29:04,417] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:28:59.417875+00:00
+[2021-11-19 12:29:12,412] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.65s           2021-11-19T12:28:56
+================================================================================
+[2021-11-19 12:29:14,604] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:29:14,608] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:29:14,639] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:29:14,639] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:29:09.639528+00:00
+[2021-11-19 12:29:24,849] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:29:24,851] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:29:24,869] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:29:24,869] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:29:19.869712+00:00
+[2021-11-19 12:29:35,067] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:29:35,068] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:29:35,079] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:29:35,079] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:29:30.079639+00:00
+[2021-11-19 12:29:42,463] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.82s           2021-11-19T12:29:27
+================================================================================
+[2021-11-19 12:29:45,313] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:29:45,315] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:29:45,343] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:29:45,343] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:29:40.343380+00:00
+[2021-11-19 12:29:55,542] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:29:55,545] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:29:55,580] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:29:55,580] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:29:50.580904+00:00
+[2021-11-19 12:30:06,502] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:30:06,503] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:30:06,511] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:30:06,511] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:30:01.511311+00:00
+[2021-11-19 12:30:12,789] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  1.64s           2021-11-19T12:29:59
+================================================================================
+[2021-11-19 12:30:16,772] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:30:16,773] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:30:16,780] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:30:16,781] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:30:11.781128+00:00
+[2021-11-19 12:30:26,985] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:30:26,988] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:30:27,000] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:30:27,000] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:30:22.000332+00:00
+[2021-11-19 12:30:37,678] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:30:37,679] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:30:37,687] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:30:37,687] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:30:32.687390+00:00
+[2021-11-19 12:30:43,805] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  1.15s           2021-11-19T12:30:30
+================================================================================
+[2021-11-19 12:30:47,849] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:30:47,850] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:30:47,866] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:30:47,866] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:30:42.866489+00:00
+[2021-11-19 12:30:58,039] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:30:58,040] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:30:58,047] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:30:58,048] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:30:53.048127+00:00
+[2021-11-19 12:31:08,770] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:31:08,771] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:31:08,778] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:31:08,778] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:31:03.778889+00:00
+[2021-11-19 12:31:13,854] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.95s           2021-11-19T12:31:01
+================================================================================
+[2021-11-19 12:31:18,963] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:31:18,963] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:31:18,972] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:31:18,972] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:31:13.972649+00:00
+[2021-11-19 12:31:29,214] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:31:29,217] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:31:29,235] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:31:29,236] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:31:24.236114+00:00
+[2021-11-19 12:31:39,375] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:31:39,376] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:31:39,386] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:31:39,386] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:31:34.386519+00:00
+[2021-11-19 12:31:44,667] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.61s           2021-11-19T12:31:32
+================================================================================
+[2021-11-19 12:31:49,861] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:31:49,864] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:31:49,893] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:31:49,893] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:31:44.893833+00:00
+[2021-11-19 12:32:00,011] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:32:00,013] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:32:00,025] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:32:00,025] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:31:55.025758+00:00
+[2021-11-19 12:32:10,292] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:32:10,293] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:32:10,301] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:32:10,301] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:32:05.301373+00:00
+[2021-11-19 12:32:15,437] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.55s           2021-11-19T12:32:02
+================================================================================
+[2021-11-19 12:32:20,479] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:32:20,480] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:32:20,491] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:32:20,491] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:32:15.491488+00:00
+[2021-11-19 12:32:30,788] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:32:30,791] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:32:30,819] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:32:30,820] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:32:25.820774+00:00
+[2021-11-19 12:32:41,087] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:32:41,089] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:32:41,101] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:32:41,101] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:32:36.101283+00:00
+[2021-11-19 12:32:46,177] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.72s           2021-11-19T12:32:33
+================================================================================
+[2021-11-19 12:32:51,262] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:32:51,263] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:32:51,271] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:32:51,272] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:32:46.272190+00:00
+[2021-11-19 12:33:01,510] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:33:01,512] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:33:01,525] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:33:01,526] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:32:56.526164+00:00
+[2021-11-19 12:33:11,895] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:33:11,896] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:33:11,903] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:33:11,903] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:33:06.903428+00:00
+[2021-11-19 12:33:16,945] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.62s           2021-11-19T12:33:04
+================================================================================
+[2021-11-19 12:33:22,124] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:33:22,124] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:33:22,130] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:33:22,131] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:33:17.131093+00:00
+[2021-11-19 12:33:32,264] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:33:32,266] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:33:32,290] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:33:32,292] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:33:27.290952+00:00
+[2021-11-19 12:33:42,464] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:33:42,464] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:33:42,484] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:33:42,484] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:33:37.484430+00:00
+[2021-11-19 12:33:47,545] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  1.46s           2021-11-19T12:33:36
+================================================================================
+[2021-11-19 12:33:52,711] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:33:52,712] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:33:52,718] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:33:52,718] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:33:47.718448+00:00
+[2021-11-19 12:34:02,974] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:34:02,977] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:34:03,017] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:34:03,025] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:33:58.025799+00:00
+[2021-11-19 12:34:13,285] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:34:13,286] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:34:13,297] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:34:13,297] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:34:08.297355+00:00
+[2021-11-19 12:34:18,374] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.63s           2021-11-19T12:34:07
+================================================================================
+[2021-11-19 12:34:23,473] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:34:23,479] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:34:23,490] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:34:23,491] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:34:18.491212+00:00
+[2021-11-19 12:34:33,642] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:34:33,645] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:34:33,666] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:34:33,666] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:34:28.666718+00:00
+[2021-11-19 12:34:44,180] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:34:44,184] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:34:44,201] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:34:44,202] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:34:39.202234+00:00
+[2021-11-19 12:34:49,494] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.63s           2021-11-19T12:34:37
+================================================================================
+[2021-11-19 12:34:54,399] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:34:54,403] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:34:54,429] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:34:54,429] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:34:49.429727+00:00
+[2021-11-19 12:35:04,562] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:35:04,601] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:35:04,659] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:35:04,661] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:34:59.660924+00:00
+[2021-11-19 12:35:14,742] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:35:14,745] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:35:14,774] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:35:14,774] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:35:09.774929+00:00
+[2021-11-19 12:35:19,822] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.64s           2021-11-19T12:35:08
+================================================================================
+[2021-11-19 12:35:24,937] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:35:24,938] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:35:24,951] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:35:24,952] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:35:19.952267+00:00
+[2021-11-19 12:35:35,188] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:35:35,189] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:35:35,204] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:35:35,204] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:35:30.204355+00:00
+[2021-11-19 12:35:45,481] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:35:45,485] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:35:45,512] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:35:45,516] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:35:40.516244+00:00
+[2021-11-19 12:35:50,598] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.54s           2021-11-19T12:35:39
+================================================================================
+[2021-11-19 12:35:55,808] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:35:55,809] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:35:55,824] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:35:55,824] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:35:50.824569+00:00
+[2021-11-19 12:36:06,053] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:36:06,055] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:36:06,076] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:36:06,076] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:36:01.076527+00:00
+[2021-11-19 12:36:16,939] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:36:16,943] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:36:16,972] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:36:16,973] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:36:11.973136+00:00
+[2021-11-19 12:36:20,935] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  1.20s           2021-11-19T12:36:10
+================================================================================
+[2021-11-19 12:36:27,113] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:36:27,114] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:36:27,133] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:36:27,134] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:36:22.134510+00:00
+[2021-11-19 12:36:37,305] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:36:37,324] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:36:37,336] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:36:37,336] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:36:32.336544+00:00
+[2021-11-19 12:36:47,623] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:36:47,625] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:36:47,645] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:36:47,646] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:36:42.646031+00:00
+[2021-11-19 12:36:50,970] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.54s           2021-11-19T12:36:41
+================================================================================
+[2021-11-19 12:36:57,809] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:36:57,811] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:36:57,834] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:36:57,835] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:36:52.835641+00:00
+[2021-11-19 12:37:07,968] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:37:07,970] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:37:08,002] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:37:08,004] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:37:03.004184+00:00
+[2021-11-19 12:37:18,336] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:37:18,339] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:37:18,369] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:37:18,369] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:37:13.369895+00:00
+[2021-11-19 12:37:21,621] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.54s           2021-11-19T12:37:12
+================================================================================
+[2021-11-19 12:37:28,505] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:37:28,508] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:37:28,538] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:37:28,539] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:37:23.539095+00:00
+[2021-11-19 12:37:38,728] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:37:38,729] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:37:38,748] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:37:38,748] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:37:33.748777+00:00
+[2021-11-19 12:37:49,153] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:37:49,155] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:37:49,163] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:37:49,163] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:37:44.163762+00:00
+[2021-11-19 12:37:52,454] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.62s           2021-11-19T12:37:42
+================================================================================
+[2021-11-19 12:37:59,374] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:37:59,376] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:37:59,406] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:37:59,408] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:37:54.408001+00:00
+[2021-11-19 12:38:09,585] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:38:09,586] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:38:09,619] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:38:09,619] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:38:04.619655+00:00
+[2021-11-19 12:38:19,858] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:38:19,861] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:38:19,897] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:38:19,897] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:38:14.897749+00:00
+[2021-11-19 12:38:23,198] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.55s           2021-11-19T12:38:13
+================================================================================
+[2021-11-19 12:38:30,064] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:38:30,065] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:38:30,071] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:38:30,071] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:38:25.071597+00:00
+[2021-11-19 12:38:40,234] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:38:40,237] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:38:40,253] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:38:40,254] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:38:35.254187+00:00
+[2021-11-19 12:38:50,648] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:38:50,649] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:38:50,661] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:38:50,662] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:38:45.662031+00:00
+[2021-11-19 12:38:53,906] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.55s           2021-11-19T12:38:44
+================================================================================
+[2021-11-19 12:39:00,807] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:39:00,811] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:39:00,840] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:39:00,841] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:38:55.841191+00:00
+[2021-11-19 12:39:10,983] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:39:10,986] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:39:11,013] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:39:11,014] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:39:06.014006+00:00
+[2021-11-19 12:39:21,426] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:39:21,431] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:39:21,462] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:39:21,463] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:39:16.463081+00:00
+[2021-11-19 12:39:24,699] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.62s           2021-11-19T12:39:15
+================================================================================
+[2021-11-19 12:39:31,609] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:39:31,611] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:39:31,626] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:39:31,631] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:39:26.631121+00:00
+[2021-11-19 12:39:41,787] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:39:41,792] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:39:41,812] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:39:41,812] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:39:36.812571+00:00
+[2021-11-19 12:39:52,238] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:39:52,239] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:39:52,247] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:39:52,250] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:39:47.250921+00:00
+[2021-11-19 12:39:55,527] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.63s           2021-11-19T12:39:46
+================================================================================
+[2021-11-19 12:40:02,405] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:40:02,408] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:40:02,426] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:40:02,426] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:39:57.426381+00:00
+[2021-11-19 12:40:12,588] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:40:12,589] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:40:12,613] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:40:12,614] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:40:07.613949+00:00
+[2021-11-19 12:40:22,917] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:40:22,921] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:40:22,952] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:40:22,952] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:40:17.952690+00:00
+[2021-11-19 12:40:26,207] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.54s           2021-11-19T12:40:16
+================================================================================
+[2021-11-19 12:40:33,179] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:40:33,180] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:40:33,189] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:40:33,189] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:40:28.189891+00:00
+[2021-11-19 12:40:43,384] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:40:43,389] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:40:43,414] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:40:43,415] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:40:38.415141+00:00
+[2021-11-19 12:40:53,747] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:40:53,750] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:40:53,787] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:40:53,788] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:40:48.788199+00:00
+[2021-11-19 12:40:57,136] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.57s           2021-11-19T12:40:47
+================================================================================
+[2021-11-19 12:41:03,960] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:41:03,961] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:41:03,969] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:41:03,969] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:40:58.969357+00:00
+[2021-11-19 12:41:14,105] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:41:14,108] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:41:14,127] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:41:14,127] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:41:09.127786+00:00
+[2021-11-19 12:41:24,546] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:41:24,552] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:41:24,585] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:41:24,585] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:41:19.585542+00:00
+[2021-11-19 12:41:27,825] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.62s           2021-11-19T12:41:18
+================================================================================
+[2021-11-19 12:41:34,725] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:41:34,725] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:41:34,736] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:41:34,736] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:41:29.736852+00:00
+[2021-11-19 12:41:44,903] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:41:44,906] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:41:44,935] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:41:44,936] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:41:39.935956+00:00
+[2021-11-19 12:41:55,337] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:41:55,341] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:41:55,375] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:41:55,376] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:41:50.376150+00:00
+[2021-11-19 12:41:58,605] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.63s           2021-11-19T12:41:49
+================================================================================
+[2021-11-19 12:42:05,534] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:42:05,536] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:42:05,563] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:42:05,563] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:42:00.563949+00:00
+[2021-11-19 12:42:15,699] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:42:15,700] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:42:15,721] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:42:15,722] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:42:10.722426+00:00
+[2021-11-19 12:42:26,127] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:42:26,128] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:42:26,138] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:42:26,138] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:42:21.138600+00:00
+[2021-11-19 12:42:29,508] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.61s           2021-11-19T12:42:19
+================================================================================
+[2021-11-19 12:42:36,356] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:42:36,358] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:42:36,390] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:42:36,392] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:42:31.392356+00:00
+[2021-11-19 12:42:46,609] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:42:46,609] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:42:46,619] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:42:46,619] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:42:41.619864+00:00
+[2021-11-19 12:42:57,239] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:42:57,242] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:42:57,264] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:42:57,264] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:42:52.264812+00:00
+[2021-11-19 12:43:00,565] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.53s           2021-11-19T12:42:50
+================================================================================
+[2021-11-19 12:43:07,502] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:43:07,503] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:43:07,519] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:43:07,519] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:43:02.519802+00:00
+[2021-11-19 12:43:17,761] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:43:17,764] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:43:17,794] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:43:17,795] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:43:12.795137+00:00
+[2021-11-19 12:43:28,533] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:43:28,534] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:43:28,548] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:43:28,548] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:43:23.548299+00:00
+[2021-11-19 12:43:30,885] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.51s           2021-11-19T12:43:21
+================================================================================
+[2021-11-19 12:43:38,921] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:43:38,923] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:43:38,945] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:43:38,946] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:43:33.946173+00:00
+[2021-11-19 12:43:49,217] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:43:49,219] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:43:49,247] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:43:49,247] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:43:44.247481+00:00
+[2021-11-19 12:43:59,460] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:43:59,465] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:43:59,499] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:43:59,500] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:43:54.500337+00:00
+[2021-11-19 12:44:01,724] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.47s           2021-11-19T12:43:51
+================================================================================
+[2021-11-19 12:44:10,436] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:44:10,437] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:44:10,444] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:44:10,445] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:44:05.445125+00:00
+[2021-11-19 12:44:22,079] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:44:22,079] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:44:22,091] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:44:22,091] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:44:17.091397+00:00
+[2021-11-19 12:44:32,209] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:44:32,210] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:44:32,218] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:44:32,218] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:44:27.218849+00:00
+[2021-11-19 12:44:32,221] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.53s           2021-11-19T12:44:22
+================================================================================
+[2021-11-19 12:44:42,452] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:44:42,453] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:44:42,478] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:44:42,479] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:44:37.479626+00:00
+[2021-11-19 12:44:52,747] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:44:52,751] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:44:52,778] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:44:52,778] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:44:47.778931+00:00
+[2021-11-19 12:45:02,846] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:45:02,848] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:45:02,869] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:45:02,870] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:44:57.870104+00:00
+[2021-11-19 12:45:02,874] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.51s           2021-11-19T12:44:53
+================================================================================
+[2021-11-19 12:45:12,961] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:45:12,964] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:45:12,992] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:45:12,992] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:45:07.992630+00:00
+[2021-11-19 12:45:23,328] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:45:23,329] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:45:23,356] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:45:23,357] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:45:18.357022+00:00
+[2021-11-19 12:52:37,043] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-19 12:52:37,043] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-19 12:52:37,043] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-19 12:52:37,043] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:52:37,044] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:52:37,055] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:52:37,055] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:52:32.055777+00:00
+[2021-11-19 12:52:37,602] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.54s           2021-11-19T12:52:37
+================================================================================
+[2021-11-19 12:52:47,465] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:52:47,469] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:52:47,482] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:52:47,482] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:52:42.482785+00:00
+[2021-11-19 12:52:57,721] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:52:57,736] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:52:57,744] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:52:57,745] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:52:52.744982+00:00
+[2021-11-19 12:53:08,099] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:53:08,101] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:53:08,131] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:53:08,132] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:53:03.132116+00:00
+[2021-11-19 12:53:08,138] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.51s           2021-11-19T12:52:41
+================================================================================
+[2021-11-19 12:53:18,408] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:53:18,412] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:53:18,448] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:53:18,448] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:53:13.448299+00:00
+[2021-11-19 12:53:28,760] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:53:28,761] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:53:28,792] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:53:28,793] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:53:23.793283+00:00
+[2021-11-19 12:53:38,493] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.59s           2021-11-19T12:53:12
+================================================================================
+[2021-11-19 12:53:38,992] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:53:38,993] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:53:39,020] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:53:39,021] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:53:34.021001+00:00
+[2021-11-19 12:53:49,279] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:53:49,280] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:53:49,296] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:53:49,297] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:53:44.297240+00:00
+[2021-11-19 12:53:59,532] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:53:59,534] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:53:59,565] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:53:59,566] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:53:54.566230+00:00
+[2021-11-19 12:54:08,717] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.52s           2021-11-19T12:53:42
+================================================================================
+[2021-11-19 12:54:09,918] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:54:09,919] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:54:09,959] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:54:09,960] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:54:04.960248+00:00
+[2021-11-19 12:58:29,602] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-19 12:58:29,602] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-19 12:58:29,602] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-19 12:58:29,602] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:58:29,603] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:58:29,622] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:58:29,622] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:58:24.622546+00:00
+[2021-11-19 12:58:30,141] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.51s           2021-11-19T12:58:30
+================================================================================
+[2021-11-19 12:58:39,664] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:58:39,665] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:58:39,678] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:58:39,678] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:58:34.678703+00:00
+[2021-11-19 12:58:49,827] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:58:49,831] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:58:49,844] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:58:49,844] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:58:44.844439+00:00
+[2021-11-19 12:58:59,986] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:58:59,987] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:59:00,008] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:59:00,009] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:58:55.008990+00:00
+[2021-11-19 12:59:01,082] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.56s           2021-11-19T12:58:33
+================================================================================
+[2021-11-19 12:59:10,145] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:59:10,148] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:59:10,163] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:59:10,163] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:59:05.163449+00:00
+[2021-11-19 12:59:20,321] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:59:20,323] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:59:20,330] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:59:20,330] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:59:15.330917+00:00
+[2021-11-19 12:59:30,502] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:59:30,502] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:59:30,508] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:59:30,508] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:59:25.508439+00:00
+[2021-11-19 12:59:31,583] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.53s           2021-11-19T12:59:04
+================================================================================
+[2021-11-19 12:59:41,171] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:59:41,173] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:59:41,188] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:59:41,188] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:59:36.188632+00:00
+[2021-11-19 12:59:51,337] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 12:59:51,338] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 12:59:51,354] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 12:59:51,355] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:59:46.355095+00:00
+[2021-11-19 13:00:01,489] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:00:01,489] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:00:01,501] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:00:01,501] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 12:59:56.501780+00:00
+[2021-11-19 13:00:02,575] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.51s           2021-11-19T12:59:36
+================================================================================
+[2021-11-19 13:00:12,082] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:00:12,085] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:00:12,110] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:00:12,111] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:00:07.111162+00:00
+[2021-11-19 13:00:22,245] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:00:22,245] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:00:22,251] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:00:22,251] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:00:17.251914+00:00
+[2021-11-19 13:00:32,255] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:00:32,256] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:00:32,268] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:00:32,268] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:00:27.268709+00:00
+[2021-11-19 13:00:33,523] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.43s           2021-11-19T13:00:07
+================================================================================
+[2021-11-19 13:00:42,318] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:00:42,319] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:00:42,327] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:00:42,327] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:00:37.327881+00:00
+[2021-11-19 13:00:52,829] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:00:52,839] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:00:52,860] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:00:52,860] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:00:47.860386+00:00
+[2021-11-19 13:04:51,182] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-19 13:04:51,182] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-19 13:04:51,182] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-19 13:04:51,183] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:04:51,183] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:04:51,213] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:04:51,213] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:04:46.213869+00:00
+[2021-11-19 13:04:51,824] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.60s           2021-11-19T13:04:51
+================================================================================
+[2021-11-19 13:05:01,824] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:05:01,825] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:05:01,835] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:05:01,835] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:04:56.835533+00:00
+[2021-11-19 13:05:12,001] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:05:12,004] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:05:12,023] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:05:12,023] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:05:07.023972+00:00
+[2021-11-19 13:05:22,362] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:05:22,364] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:05:22,384] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:05:22,384] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:05:17.384839+00:00
+[2021-11-19 13:05:22,390] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.72s           2021-11-19T13:04:56
+================================================================================
+[2021-11-19 13:05:32,424] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:05:32,427] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:05:32,448] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:05:32,448] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:05:27.448526+00:00
+[2021-11-19 13:05:42,608] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:05:42,610] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:05:42,626] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:05:42,627] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:05:37.627189+00:00
+[2021-11-19 13:05:52,485] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.52s           2021-11-19T13:05:26
+================================================================================
+[2021-11-19 13:05:53,552] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:05:53,553] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:05:53,572] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:05:53,572] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:05:48.572490+00:00
+[2021-11-19 13:06:03,718] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:06:03,721] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:06:03,743] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:06:03,744] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:05:58.744053+00:00
+[2021-11-19 13:06:13,921] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:06:13,922] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:06:13,931] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:06:13,931] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:06:08.931960+00:00
+[2021-11-19 13:06:22,764] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.48s           2021-11-19T13:05:57
+================================================================================
+[2021-11-19 13:06:24,085] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:06:24,087] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:06:24,107] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:06:24,107] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:06:19.107511+00:00
+[2021-11-19 13:06:34,263] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:06:34,263] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:06:34,272] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:06:34,272] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:06:29.272283+00:00
+[2021-11-19 13:06:44,434] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:06:44,436] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:06:44,450] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:06:44,450] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:06:39.450870+00:00
+[2021-11-19 13:06:52,875] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.51s           2021-11-19T13:06:27
+================================================================================
+[2021-11-19 13:06:54,584] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:06:54,585] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:06:54,593] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:06:54,593] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:06:49.593491+00:00
+[2021-11-19 13:07:04,750] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:07:04,750] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:07:04,757] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:07:04,757] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:06:59.757956+00:00
+[2021-11-19 13:07:14,907] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:07:14,907] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:07:14,914] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:07:14,914] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:07:09.914893+00:00
+[2021-11-19 13:07:22,993] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.51s           2021-11-19T13:06:59
+================================================================================
+[2021-11-19 13:07:25,045] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:07:25,046] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:07:25,058] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:07:25,058] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:07:20.058930+00:00
+[2021-11-19 13:07:35,722] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:07:35,723] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:07:35,731] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:07:35,731] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:07:30.731169+00:00
+[2021-11-19 13:18:26,757] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-19 13:18:26,757] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-19 13:18:26,757] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-19 13:18:26,757] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:18:26,758] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:18:26,790] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:18:26,790] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:18:21.790377+00:00
+[2021-11-19 13:18:27,409] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.61s           2021-11-19T13:18:27
+================================================================================
+[2021-11-19 13:18:36,880] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:18:36,882] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:18:36,905] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:18:36,905] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:18:31.905858+00:00
+[2021-11-19 13:21:16,813] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-19 13:21:16,813] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-19 13:21:16,814] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-19 13:21:16,814] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:21:16,814] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:21:16,853] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:21:16,853] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:21:11.853728+00:00
+[2021-11-19 13:21:17,858] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           0           1  0.99s           2021-11-19T13:21:17
+================================================================================
+[2021-11-19 13:21:27,398] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:21:27,399] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:21:27,412] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:21:27,413] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:21:22.413176+00:00
+[2021-11-19 13:21:37,559] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:21:37,559] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:21:37,566] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:21:37,567] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:21:32.567023+00:00
+[2021-11-19 13:22:48,008] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-19 13:22:48,009] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-19 13:22:48,009] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-19 13:22:48,009] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:22:48,009] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:22:48,055] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:22:48,055] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:22:43.055370+00:00
+[2021-11-19 13:22:48,716] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.65s           2021-11-19T13:22:48
+================================================================================
+[2021-11-19 13:22:58,809] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:22:58,811] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:22:58,880] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:22:58,881] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:22:53.881018+00:00
+[2021-11-19 13:23:09,092] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:23:09,092] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:23:09,107] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:23:09,107] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:23:04.107844+00:00
+[2021-11-19 13:23:19,128] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:23:19,129] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:23:19,135] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:23:19,135] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:23:14.135962+00:00
+[2021-11-19 13:23:19,139] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.81s           2021-11-19T13:22:53
+================================================================================
+[2021-11-19 13:23:37,241] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:23:37,242] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:23:37,251] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:23:37,251] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:23:32.251912+00:00
+[2021-11-19 13:23:47,913] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:23:47,914] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:23:47,922] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:23:47,922] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:23:42.922524+00:00
+[2021-11-19 13:23:49,726] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.71s           2021-11-19T13:23:29
+================================================================================
+[2021-11-19 13:23:57,950] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:23:57,951] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:23:57,957] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:23:57,957] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:23:52.957779+00:00
+[2021-11-19 13:24:08,347] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:24:08,348] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:24:08,357] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:24:08,357] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:24:03.357726+00:00
+[2021-11-19 13:24:19,037] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:24:19,038] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:24:19,046] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:24:19,046] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:24:14.046973+00:00
+[2021-11-19 13:24:20,112] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.52s           2021-11-19T13:24:00
+================================================================================
+[2021-11-19 13:24:29,173] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:24:29,174] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:24:29,179] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:24:29,179] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:24:24.179920+00:00
+[2021-11-19 13:33:02,827] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-19 13:33:02,827] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-19 13:33:02,827] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-19 13:33:02,827] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:33:02,828] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:33:02,877] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:33:02,878] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:32:57.878039+00:00
+[2021-11-19 13:33:03,925] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  1.03s           2021-11-19T13:33:03
+================================================================================
+[2021-11-19 13:33:13,959] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:33:13,962] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:33:13,995] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:33:13,995] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:33:08.995898+00:00
+[2021-11-19 13:33:24,140] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:33:24,141] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:33:24,148] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:33:24,148] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:33:19.148837+00:00
+[2021-11-19 13:33:35,127] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:33:35,128] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:33:35,136] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:33:35,136] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:33:30.136765+00:00
+[2021-11-19 13:33:35,140] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.61s           2021-11-19T13:33:08
+================================================================================
+[2021-11-19 13:33:48,451] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:33:48,452] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:33:48,464] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:33:48,464] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:33:43.464890+00:00
+[2021-11-19 13:33:58,579] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:33:58,579] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:33:58,588] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:33:58,589] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:33:53.589071+00:00
+[2021-11-19 13:34:05,174] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.71s           2021-11-19T13:33:42
+================================================================================
+[2021-11-19 13:34:08,723] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:34:08,724] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:34:08,741] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:34:08,741] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:34:03.741234+00:00
+[2021-11-19 13:34:18,880] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:34:18,882] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:34:18,890] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:34:18,890] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:34:13.890191+00:00
+[2021-11-19 13:34:29,020] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:34:29,021] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:34:29,027] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:34:29,027] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:34:24.027704+00:00
+[2021-11-19 13:34:35,234] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.52s           2021-11-19T13:34:13
+================================================================================
+[2021-11-19 13:34:39,231] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:34:39,231] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:34:39,238] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:34:39,238] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:34:34.238382+00:00
+[2021-11-19 13:34:49,884] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:34:49,885] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:34:49,894] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:34:49,894] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:34:44.894956+00:00
+[2021-11-19 13:35:00,125] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:35:00,126] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:35:00,134] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:35:00,134] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:34:55.134714+00:00
+[2021-11-19 13:35:05,411] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.52s           2021-11-19T13:34:44
+================================================================================
+[2021-11-19 13:35:10,306] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:35:10,307] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:35:10,316] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:35:10,316] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:35:05.316699+00:00
+[2021-11-19 13:35:20,497] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:35:20,497] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:35:20,505] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:35:20,505] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:35:15.505937+00:00
+[2021-11-19 13:35:31,092] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:35:31,092] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:35:31,099] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:35:31,099] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:35:26.099291+00:00
+[2021-11-19 13:35:35,571] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.52s           2021-11-19T13:35:15
+================================================================================
+[2021-11-19 13:35:41,229] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:35:41,230] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:35:41,238] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:35:41,238] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:35:36.238446+00:00
+[2021-11-19 13:35:51,704] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:35:51,705] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:35:51,719] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:35:51,719] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:35:46.719293+00:00
+[2021-11-19 13:36:53,255] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-19 13:36:53,255] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-19 13:36:53,255] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-19 13:36:53,255] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:36:53,256] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:36:53,323] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:36:53,324] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:36:48.324210+00:00
+[2021-11-19 13:36:53,928] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.59s           2021-11-19T13:36:53
+================================================================================
+[2021-11-19 13:37:04,994] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:37:05,000] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:37:05,984] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:37:05,984] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:37:00.984894+00:00
+[2021-11-19 13:37:15,601] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:37:15,601] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:37:16,421] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:37:16,422] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:37:11.422036+00:00
+[2021-11-19 13:37:24,382] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.93s           2021-11-19T13:36:58
+================================================================================
+[2021-11-19 13:37:26,484] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:37:26,485] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:37:26,492] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:37:26,492] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:37:21.492874+00:00
+[2021-11-19 13:37:39,905] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:37:39,906] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:37:39,925] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:37:39,925] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:37:34.925752+00:00
+[2021-11-19 13:37:53,524] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:37:53,525] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:37:53,533] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:37:53,533] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:37:48.533690+00:00
+[2021-11-19 13:37:54,596] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.53s           2021-11-19T13:37:30
+================================================================================
+[2021-11-19 13:38:03,602] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:38:03,603] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:38:03,613] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:38:03,613] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:37:58.613897+00:00
+[2021-11-19 13:38:13,750] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:38:13,751] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:38:13,757] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:38:13,757] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:38:08.757811+00:00
+[2021-11-19 13:38:23,896] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:38:23,896] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:38:23,902] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:38:23,903] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:38:18.903093+00:00
+[2021-11-19 13:38:24,969] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.51s           2021-11-19T13:38:01
+================================================================================
+[2021-11-19 13:38:34,073] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:38:34,073] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:38:34,086] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:38:34,086] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:38:29.086659+00:00
+[2021-11-19 13:40:00,805] {dag_processing.py:601} INFO - Processing files using up to 1 processes at a time 
+[2021-11-19 13:40:00,806] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2021-11-19 13:40:00,806] {dag_processing.py:603} INFO - Checking for new files in /opt/airflow/dags every 10 seconds
+[2021-11-19 13:40:00,806] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:40:00,807] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:40:00,869] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:40:00,869] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:39:55.869490+00:00
+[2021-11-19 13:40:01,834] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.94s           2021-11-19T13:40:01
+================================================================================
+[2021-11-19 13:40:11,913] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:40:11,918] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:40:11,949] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:40:11,949] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:40:06.949570+00:00
+[2021-11-19 13:40:21,921] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:40:21,922] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:40:22,741] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:40:22,741] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:40:17.741420+00:00
+[2021-11-19 13:40:31,959] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:40:31,960] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:40:31,987] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.65s           2021-11-19T13:40:06
+================================================================================
+[2021-11-19 13:40:36,624] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:40:36,624] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:40:31.624746+00:00
+[2021-11-19 13:40:42,369] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:40:42,370] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:40:50,401] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:40:50,401] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:40:45.401226+00:00
+[2021-11-19 13:40:52,553] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:40:52,554] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:41:00,464] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:41:00,464] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:40:55.464499+00:00
+[2021-11-19 13:41:02,573] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:41:02,574] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:41:02,581] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.61s           2021-11-19T13:40:42
+================================================================================
+[2021-11-19 13:41:10,611] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:41:10,611] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:41:05.611294+00:00
+[2021-11-19 13:41:12,724] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:41:12,725] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:41:20,761] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:41:20,761] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:41:15.761593+00:00
+[2021-11-19 13:41:22,888] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:41:22,889] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:41:30,916] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:41:30,916] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:41:25.916767+00:00
+[2021-11-19 13:41:33,039] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2021-11-19 13:41:33,040] {dag_processing.py:755} INFO - There are 1 files in /opt/airflow/dags
+[2021-11-19 13:41:33,047] {dag_processing.py:859} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/etl-raizen.py                           1           0  0.61s           2021-11-19T13:41:14
+================================================================================
+[2021-11-19 13:41:41,099] {dag_processing.py:1092} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-11-19 13:41:41,099] {dag_processing.py:1096} INFO - Failing jobs without heartbeat after 2021-11-19 13:41:36.099682+00:00

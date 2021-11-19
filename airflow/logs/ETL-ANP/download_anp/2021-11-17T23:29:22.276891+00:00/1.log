@@ -1,0 +1,23 @@
+[2021-11-18 23:29:24,902] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: ETL-ANP.download_anp 2021-11-17T23:29:22.276891+00:00 [queued]>
+[2021-11-18 23:29:24,907] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: ETL-ANP.download_anp 2021-11-17T23:29:22.276891+00:00 [queued]>
+[2021-11-18 23:29:24,907] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-18 23:29:24,907] {taskinstance.py:1069} INFO - Starting attempt 1 of 1
+[2021-11-18 23:29:24,907] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-18 23:29:24,927] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): download_anp> on 2021-11-17T23:29:22.276891+00:00
+[2021-11-18 23:29:24,941] {standard_task_runner.py:52} INFO - Started process 56 to run task
+[2021-11-18 23:29:24,947] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'ETL-ANP', 'download_anp', '2021-11-17T23:29:22.276891+00:00', '--job-id', '19', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/etl-raizen.py', '--cfg-path', '/tmp/tmp6wmzln5e', '--error-file', '/tmp/tmp0t517zou']
+[2021-11-18 23:29:24,947] {standard_task_runner.py:77} INFO - Job 19: Subtask download_anp
+[2021-11-18 23:29:25,007] {logging_mixin.py:104} INFO - Running <TaskInstance: ETL-ANP.download_anp 2021-11-17T23:29:22.276891+00:00 [running]> on host bd289edd73de
+[2021-11-18 23:29:25,071] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=ETL-ANP
+AIRFLOW_CTX_TASK_ID=download_anp
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-17T23:29:22.276891+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-11-17T23:29:22.276891+00:00
+[2021-11-18 23:29:25,071] {etl-raizen.py:17} INFO - Starting XLS download from ANP ... 
+[2021-11-18 23:29:27,261] {python.py:118} INFO - Done. Returned value was: None
+[2021-11-18 23:29:27,264] {taskinstance.py:1185} INFO - Marking task as SUCCESS. dag_id=ETL-ANP, task_id=download_anp, execution_date=20211117T232922, start_date=20211118T232924, end_date=20211118T232927
+[2021-11-18 23:29:27,595] {taskinstance.py:1246} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-11-18 23:29:27,621] {local_task_job.py:146} INFO - Task exited with return code 0

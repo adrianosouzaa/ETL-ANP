@@ -1,0 +1,22 @@
+[2021-11-18 23:53:47,826] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: ETL-ANP.extract_derivated_fuels 2021-11-18T23:53:34.527344+00:00 [queued]>
+[2021-11-18 23:53:47,837] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: ETL-ANP.extract_derivated_fuels 2021-11-18T23:53:34.527344+00:00 [queued]>
+[2021-11-18 23:53:47,838] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-18 23:53:47,838] {taskinstance.py:1069} INFO - Starting attempt 1 of 1
+[2021-11-18 23:53:47,839] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-18 23:53:47,867] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): extract_derivated_fuels> on 2021-11-18T23:53:34.527344+00:00
+[2021-11-18 23:53:47,871] {standard_task_runner.py:52} INFO - Started process 154 to run task
+[2021-11-18 23:53:47,875] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'ETL-ANP', 'extract_derivated_fuels', '2021-11-18T23:53:34.527344+00:00', '--job-id', '28', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/etl-raizen.py', '--cfg-path', '/tmp/tmpu1xpuhdo', '--error-file', '/tmp/tmpuzk9_xtt']
+[2021-11-18 23:53:47,876] {standard_task_runner.py:77} INFO - Job 28: Subtask extract_derivated_fuels
+[2021-11-18 23:53:47,917] {logging_mixin.py:104} INFO - Running <TaskInstance: ETL-ANP.extract_derivated_fuels 2021-11-18T23:53:34.527344+00:00 [running]> on host bd289edd73de
+[2021-11-18 23:53:47,958] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=ETL-ANP
+AIRFLOW_CTX_TASK_ID=extract_derivated_fuels
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-18T23:53:34.527344+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-18T23:53:34.527344+00:00
+[2021-11-18 23:53:49,624] {python.py:118} INFO - Done. Returned value was: None
+[2021-11-18 23:53:49,630] {taskinstance.py:1185} INFO - Marking task as SUCCESS. dag_id=ETL-ANP, task_id=extract_derivated_fuels, execution_date=20211118T235334, start_date=20211118T235347, end_date=20211118T235349
+[2021-11-18 23:53:49,687] {taskinstance.py:1246} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-11-18 23:53:49,714] {local_task_job.py:146} INFO - Task exited with return code 0
